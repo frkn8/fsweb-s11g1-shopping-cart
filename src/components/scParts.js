@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const ScNav = styled.nav`
   margin-bottom: 3rem;
-  background: #141618;
+  background: #76787a;
   nav {
     display: flex;
     justify-content: flex-end;
